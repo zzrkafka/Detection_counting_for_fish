@@ -1,0 +1,6 @@
+train: E:/design/data/dataset/images/train
+val: E:/design/data/dataset/images/val
+# number of classes
+nc: 1
+# class names
+names: ['fish']
